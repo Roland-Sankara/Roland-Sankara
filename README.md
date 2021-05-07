@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, thanks for stopping by...
 
-### My Github Stats
+### My Github Stats 🌱
 
 ![Roland's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-Sankara&show_icons=true&theme=highcontrast)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Sankara)
