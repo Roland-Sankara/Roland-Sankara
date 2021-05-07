@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My Github Stats
+
+![Roland's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roland-Sankara&show_icons=true&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roland-Sankara)
+
 <!--
 **Roland-Sankara/Roland-Sankara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
