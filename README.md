@@ -3,7 +3,7 @@ My names are Roland Sankara, a fullstack software developer and also Bootcamp Le
 
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to contribute to OpenSource projects. 
-- 💬 Ask me about Web Development (React.js | Next.js | Node.js | Express.js | Docker | Tailwaind)
+- 💬 Ask me about Web Development (React.js | Next.js | Node.js | Express.js | Docker | Tailwind CSS | WordPress)
 - 📫 How to reach me: 
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](http://blog.rolandsankara.com/)
