@@ -1,5 +1,7 @@
-<!-- ![header-image](./Images/Github%20Profile%20Header%20Generator.png) -->
-<img align="center" src="./Images/Github%20Profile%20Header%20Generator.png">
+<p align="center">
+    ![header-image](./Images/Github%20Profile%20Header%20Generator.png)
+</p>
+<!-- <img align="center" src="./Images/Github%20Profile%20Header%20Generator.png"> -->
 
 #### Hey there 👋,
 My names are Roland Sankara, a fullstack software developer and also Bootcamp Learning facilitator, very passionate about technology and how we can use it to innovate solutions for the good of humanity.
